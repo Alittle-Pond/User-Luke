@@ -2,8 +2,8 @@
 #关键字匹配
 
 # > RFA自由亚洲
-HOST-KEYWORD, rfa, Rfa
+HOST, rfa, Rfa
 
 # > VOA美国之音
-HOST-KEYWORD, voachinese, Voachinese
-HOST-KEYWORD, voanews, Voanews
+HOST, voachinese, Voachinese
+HOST, voanews, Voanews
