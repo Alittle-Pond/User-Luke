@@ -1,5 +1,9 @@
+#机场屏蔽网站分流
+#关键字匹配
+
 # > RFA自由亚洲
-DOMAIN-SUFFIX,rfa.org,PROXY
+HOST-KEYWORD, rfa, Rfa, RFA
+
 # > VOA美国之音
-DOMAIN-SUFFIX,voachinese.com,PROXY
-DOMAIN-SUFFIX,voanews.com,PROXY
+HOST-KEYWORD, voachinese, Voachinese, VOACHINESE
+HOST-KEYWORD, voanews, Voanews, VOANEWS
