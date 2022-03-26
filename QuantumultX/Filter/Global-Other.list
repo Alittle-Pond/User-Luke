@@ -2,23 +2,23 @@
 #关键字匹配
 
 # > 大纪元
-DOMAIN-SUFFIX, epochtimes.com, PROXY
+HOST-KEYWORD, epochtimes, Epochtimes
 
 # > 报道者
-DOMAIN-SUFFIX, twreporter.org, PROXY
+HOST-KEYWORD, twreporter, Twreporter
 
 # > 博谈网
-DOMAIN-SUFFIX, botanwang.com, PROXY
+HOST-KEYWORD, botanwang, Botanwang
 
 # > 品葱
-DOMAIN-SUFFIX, pincong.rocks, PROXY
+HOST-KEYWORD, pincong, Pincong
 
 # > RFA自由亚洲
-DOMAIN-SUFFIX, rfa.org, PROXY
+HOST-KEYWORD, rfa, Rfa
 
 # > VOA美国之音
-DOMAIN-SUFFIX, voachinese.com, PROXY
-DOMAIN-SUFFIX, voanews.com, PROXY
+HOST-KEYWORD, voachinese, Voachinese
+HOST-KEYWORD, voanews, Voanews
 
 # > 中国数字时代
-DOMAIN-SUFFIX, chinadigitaltimes.net, PROXY
+HOST-KEYWORD, chinadigitaltimes, Chinadigitaltimes
