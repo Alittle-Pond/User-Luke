@@ -10,6 +10,9 @@ DOMAIN-SUFFIX, twreporter.org, PROXY
 # > 博谈网
 DOMAIN-SUFFIX, botanwang.com, PROXY
 
+# > 品葱
+DOMAIN-SUFFIX, pincong.rocks, PROXY
+
 # > RFA自由亚洲
 DOMAIN-SUFFIX, rfa.org, PROXY
 
