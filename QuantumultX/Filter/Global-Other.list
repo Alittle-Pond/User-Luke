@@ -2,8 +2,8 @@
 #关键字匹配
 
 # > RFA自由亚洲
-HOST, rfa, Rfa
+DOMAIN-SUFFIX,rfa.org,PROXY
 
 # > VOA美国之音
-HOST, voachinese, Voachinese
-HOST, voanews, Voanews
+DOMAIN-SUFFIX,voachinese.com,PROXY
+DOMAIN-SUFFIX,voanews.com,PROXY
