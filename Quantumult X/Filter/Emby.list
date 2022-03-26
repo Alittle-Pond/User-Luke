@@ -1,0 +1,86 @@
+# Emby分流
+# 关键字匹配
+HOST-KEYWORD, emby, Emby
+
+# > 流媒体emby-nexitally服务器
+HOST, emby.nexitally.com, Emby
+
+# > 流媒体emby-paoche服务器
+HOST, emby.cjpc.cc, Emby
+
+# > 流媒体emby-flowercloud服务器
+HOST, emby.flowercloud.yt, Emby
+
+# > 流媒体emby-maying服务器
+HOST, emby.maying.club, Emby
+
+# > 流媒体emby-mdss服务器
+HOST, emby.mdss.cloud, Emby
+
+# > 流媒体emby-ytoo服务器
+HOST, emby.ytoo.li, Emby
+
+# > 流媒体emby-w8ves服务器
+HOST, embyserver.ga, Emby
+
+# > 流媒体emby-prpr服务器
+HOST, emby.prprcloud.com, Emby
+
+# > 流媒体emby-nyancat服务器
+HOST, emby.nyancat.net, Emby
+
+# > 流媒体普拉斯影业服务器
+HOST, emby.plusmedia.site, Emby
+HOST, emby-sg.plusmedia.site, Emby
+HOST, emby-cf.plusmedia.site, Emby
+HOST, emby.xeton.dev, Emby
+HOST, jellyfin.xeton.dev, Emby
+HOST, movie.xeton.dev, Emby
+HOST, servers.xeton.dev, Emby
+
+# > 流媒体emby-Otaku体验服
+HOST, emby.otakudrive.life, Emby
+HOST, emby2.otakudrive.life, Emby
+
+# > 流媒体emby-jmsooo体验服
+HOST, agahk1.jmsooo.com, Emby
+HOST, agasg1.jmsooo.com, Emby
+HOST, agajp1.jmsooo.com, Emby
+HOST, aws.jmsooo.com, Emby
+HOST, ntt1.jmsooo.com, Emby
+HOST, hinet.jmsooo.com, Emby
+HOST, cf1.jmsooo.com, Emby
+HOST, jmsooo.com, Emby
+HOST, cf.jmsooo.com, Emby
+HOST, hk.jmsooo.com, Emby
+HOST, sg.jmsooo.com, Emby
+
+# > 流媒体pornemby服务器
+HOST, pornemby.club, Emby
+
+# > 流媒体IMM服务器
+HOST, emby.immtel.com, Emby
+
+# > 流媒体Odyssey服务器
+HOST, cf.odysseyplus.site, Emby
+HOST, agahk.odysseyplus.site, Emby
+HOST, agasg.odysseyplus.site, Emby
+HOST, ru.odysseyplus.site, Emby
+
+# > 流媒体Exflux服务器
+HOST, line.emby.men, Emby
+
+# > 流媒体SoCloud服务器
+HOST, emby.run, Emby
+
+# > 流媒体WaveCloud服务器
+HOST, embyserver.ga, Emby
+
+# > 流媒体Skicat专属服
+HOST, https://skicat.tv, Emby
+
+# > 流媒体Godetia专属服1（猫熊）
+HOST, emby.ssltd.xyz, Emby
+
+# > 流媒体Godetia专属服2（3DM）
+HOST, emby.3DMmp.com, Emby
